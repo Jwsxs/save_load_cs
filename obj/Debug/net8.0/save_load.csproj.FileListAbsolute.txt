@@ -1,0 +1,14 @@
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.AssemblyInfoInputs.cache
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.AssemblyInfo.cs
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.csproj.CoreCompileInputs.cache
+C:\Users\s1co5\Documents\cs-projs\save_load\bin\Debug\net8.0\save_load.exe
+C:\Users\s1co5\Documents\cs-projs\save_load\bin\Debug\net8.0\save_load.deps.json
+C:\Users\s1co5\Documents\cs-projs\save_load\bin\Debug\net8.0\save_load.runtimeconfig.json
+C:\Users\s1co5\Documents\cs-projs\save_load\bin\Debug\net8.0\save_load.dll
+C:\Users\s1co5\Documents\cs-projs\save_load\bin\Debug\net8.0\save_load.pdb
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.dll
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\refint\save_load.dll
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.pdb
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\save_load.genruntimeconfig.cache
+C:\Users\s1co5\Documents\cs-projs\save_load\obj\Debug\net8.0\ref\save_load.dll
